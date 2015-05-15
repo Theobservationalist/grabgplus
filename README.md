@@ -5,10 +5,10 @@ A simple commandline program using phantomjs framework to headlessly execute js 
 
 1 : first install phantomjs: http://phantomjs.org/
 
-2 : second : open your terminal and write : 
+2 : second open your terminal and write : 
 
 
-phantomjs grabg+.js <youtube-username> 
+phantomjs grabg+.js username
 
 
 and press enter .. enjoy !! 
